@@ -1,2 +1,2 @@
-# 04-Space-Shooter
-Space Shooter project for c220
+# Project-Template-Godot
+A default Godot project template for MSCH-C220
